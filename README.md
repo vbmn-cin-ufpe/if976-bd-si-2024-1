@@ -6,6 +6,7 @@ Equipe :
 - Victor Barros de Miranda Neves(vbmn@cin.ufpe.br)
 - Alexandre Vieira Leonardo (avl@cin.ufpe.br)
 
-Descrição do projeto
-O projeto consiste em apresentar um solução de sistema de banco de dados para gerenciar uma clínica veterinário com as entidades Clientes(Donos), Pets, Veterinários, Consultadas, Tratamentos, Agendamentos, Procedimentos, Medicamentos
+Descrição do projeto :
+
+- O projeto consiste em apresentar um solução de sistema de banco de dados para gerenciar uma clínica veterinário com as entidades Clientes(Donos), Pets, Veterinários, Consultadas, Tratamentos, Agendamentos, Procedimentos, Medicamentos
 
