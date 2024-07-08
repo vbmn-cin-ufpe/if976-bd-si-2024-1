@@ -5,7 +5,8 @@ Repositório para colocar as atividades do projeto para a disciplina de Banco de
 Equipe : 
 - Victor Barros de Miranda Neves(vbmn@cin.ufpe.br)
 - Alexandre Vieira Leonardo (avl@cin.ufpe.br)
-
+- Diana Rocha Silva (drs4@cin.ufpe.br)
+- Filip Augusto Pawlowski Fernandes (fapf@cin.ufpe.br)
 Descrição do projeto :
 
 - O projeto consiste em apresentar um solução de sistema de banco de dados para gerenciar uma clínica veterinário com as entidades Clientes(Donos), Pets, Veterinários, Consultadas, Tratamentos, Agendamentos, Procedimentos, Medicamentos
