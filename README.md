@@ -15,7 +15,7 @@ Equipe :
 
 Descrição do projeto :
 
-## 1. Descrição da aplicação a ser implementada : Aplicação de Equipe DataPetz
+## 1. Descrição da aplicação a ser implementada 
 
  ### 1.1 Objetivos da aplicação 
            
