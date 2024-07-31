@@ -6,25 +6,20 @@
 Repositório para colocar as atividades do projeto para a disciplina de Banco de Dados do CIN-UFPE no período 2024.1
 
 Equipe : 
-- Victor Barros de Miranda Neves(vbmn@cin.ufpe.br)
 - Alexandre Vieira Leonardo (avl@cin.ufpe.br)
-- Diana Rocha Silva (drs4@cin.ufpe.br)
-- Filip Augusto Pawlowski Fernandes (fapf@cin.ufpe.br)
+- Victor Barros de Miranda Neves(vbmn@cin.ufpe.br)
 - Vinicius Henrique Silva (vhs@cin.ufpe.br)
+- ~~Diana Rocha Silva (drs4@cin.ufpe.br)~~
+- ~~Filip Augusto Pawlowski Fernandes (fapf@cin.ufpe.br)~~
+
 
 Descrição do projeto :
 
 1. Descrição da aplicação a ser implementada : Aplicação de Equipe DataPetz
 
   1.1 Objetivos da aplicação 
-           Definir uma aplicação de Banco de Dados da Equipe de Equipe DataPetz,logo sua função é fazer uma pesquisa detalhada  de atividades desempenhadas e armazenar os seus dados em um relatório.
-          Os exemplos são lista de envolvidos na modelagem  que são:  Animal, Cliente, Entidade associativa que relaciona Contratar, Ponto, Clinica, Loja, Produto, Agendamento, Consulta, Empregador, Graduador e Técnico. Assim, os exemplos acima relacional com lista de envolvidos no banco de dados que servirá de consulta é exigida pela construção da equipe  de DataPetz. 
-
-
-
-
-
-
+           Definir uma aplicação de Banco de Dados para a equipe DataPetz. A aplicação tem como objetivo criar um projeto modelo para uma clinica veterinária simulando a interação entre entidades e seus atributos e relacionamentos seguindo o padrão Entendidade e Relacionamentos apresentados na disciplina de Banco de dados. Entre os objetivos da aplicação sua função é fazer uma pesquisa detalhada  de atividades desempenhadas e armazenar os seus dados em um banco de dados relacional e gerar relatórios.
+          A seguir apresentamos as entidades envolvidas no projeto: Cliente, Entidade associativa que relaciona Contratar, Ponto, Clinica, Loja, Produto, Agendamento, Consulta, Empregador, Graduador e Técnico. Com essas entidades, construimos nosso modelo conceitual que vai ajudar na construção dos proximos modelos lógico e modelo físico.
 
   1.2 Regras de negócio
    
