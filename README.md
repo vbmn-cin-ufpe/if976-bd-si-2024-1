@@ -326,6 +326,11 @@ Além do desenvolvimento do modelo, fornecemos orientações sobre como document
 
 Seguir esses passos e utilizar as referências adequadas garantirá a criação de um modelo conceitual robusto e bem documentado, preparado para a transição para um modelo lógico e, posteriormente, a implementação em um sistema de gerenciamento de banco de dados
 
+Links :
+
+
+Link para a apresentação:
+ https://www.canva.com/design/DAGMXYlNH0k/YMRArc0wF6QhELVZMcO1BA/edit?utm_content=DAGMXYlNH0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
