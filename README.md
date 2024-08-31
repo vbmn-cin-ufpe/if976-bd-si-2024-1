@@ -268,13 +268,42 @@ Um relacionamento n-ário envolve mais de duas entidades. No projeto, "Agendamen
 
 
 
-## 4. Modelo lógico (relacional) do Banco de Dados
+## 4. Projeto lógico (relacional) do Banco de Dados
 
 
-Para próximas entregas deste projetos o  modelo lógico DataPetz.
+Modelo ER atualizado
+
+
+![image](https://github.com/user-attachments/assets/2d676c4c-d9fb-4be1-984a-d43edb085231)
+
+Visando o melhor funcionamento e estruturação do projeto, foi realizada a alteração do modelo conceitual para que algumas funções pudessem funcionar de forma mais assertiva. 
+
+No modelo anterior, não estava sendo possível conseguir associar a compra de um produto a um cliente, bem como o agendamento na clínica também ao cliente, o que foi resolvido nessas modificações. Fizemos os ajustes para que o projeto esteja de acordo com um projeto real onde consultas com pelas entidades Cliente e Produto ou Cliente e Agendamento seriam bastante importantes.
+
+Também removemos alguns atributos que se encontravam como multivalorados sem a devida necessidade, por exemplo: telefone da clínica, loja e empregado, onde entendemos que para uma melhor implementação do projeto apenas um contato seria necessário.
+
+### 4.1. Modelo Lógico 
+
+
+![image](https://github.com/user-attachments/assets/dd97a919-ee00-47ff-9db3-d910d57f0de8)
 
 
 
+### 4.2 Normalização
+
+![image](https://github.com/user-attachments/assets/cb7a5a31-13c3-447d-89c4-83735ecd35f3)
+
+### 4.3. Algebra Relacional (Consultas)
+
+![image](https://github.com/user-attachments/assets/59c2946b-9c61-4e90-94cf-063cfe1fa477)
+
+![image](https://github.com/user-attachments/assets/30776608-7dc8-4a29-a06d-c9dad3cffdfb)
+
+![image](https://github.com/user-attachments/assets/3b5a6a74-89b6-4e7d-be85-f648c272274c)
+
+![image](https://github.com/user-attachments/assets/5b966fa9-c637-45b8-b325-514c39418925)
+
+![image](https://github.com/user-attachments/assets/b109f403-2c21-445c-ac2a-25986008f664)
 
 
 
