@@ -358,8 +358,12 @@ Seguir esses passos e utilizar as referências adequadas garantirá a criação 
 Links :
 
 
-Link para a apresentação:
+Link para a apresentação 1 (Modelo Conceitual):
  https://www.canva.com/design/DAGMXYlNH0k/YMRArc0wF6QhELVZMcO1BA/edit?utm_content=DAGMXYlNH0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Link para a apresentação 2 (Modelo Lógico):
+https://www.canva.com/design/DAGPzg0KpRU/m-yh3CrWSlM0SIv5IDw3eQ/edit?utm_content=DAGPzg0KpRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
