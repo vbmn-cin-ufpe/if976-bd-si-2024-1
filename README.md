@@ -311,12 +311,46 @@ Também removemos alguns atributos que se encontravam como multivalorados sem a 
 
 ## 5. Projeto Físico
 
-Atualização do projeto Conceitual :
+### Atualização do projeto Conceitual :
 
 ![image](https://github.com/user-attachments/assets/a99feb7f-dfa2-4cf1-ad84-9f53a9e999b5)
 
 
+### Atualização do projeto Lógico:
 
+Cliente(CodCliente, Nome, DataNascimento, [CPF]!, Email, CEP, Rua, Numero, Cidade, Estado)
+
+TelefoneCLiente(Telefone, CodCliente!)
+	CodCliente -> Cliente(CodCliente)
+
+Animal(CodAnimal, Nome, Especie, DataNascimento, Sexo, CodCliente!)
+	CodCliente -> Cliente(CodCliente)
+
+AgendamentoConsulta(CodAgendamentoConsulta, DataHora, Tratamento, ProdutoUtilizado, QtdProdutoUtilizado, CodAnimal!, CodEmpregado!, CNPJ!)
+	CodAnimal -> Animal(CodAnimal)
+	CodEmpregado -> Empregado(CodEmpregado)
+	CNPJ -> Clinica(CNPJ)
+	
+Clinica(CNPJ, Nome, Telefone, CEP, Rua, Numero, Cidade, Estado)
+
+Produto(CodProduto, Nome, Marca, Quantidade, Valor)
+
+ClinicaProduto(CNPJ!, CodProduto!)
+	CNPJ -> Clinica(CNPJ)
+	CodProduto -> Produto(CodProduto)
+
+ProdutoAgendamento(CodProduto!, CodAgendamentoConsulta!)
+	CodProduto -> Produto(CodProduto)
+CodAgendamentoConsulta->AgendamentoConsulta(CodAgendamentoConsulta)
+
+Empregado(CodEmpregado, Nome, Telefone, Email, Especialidade, CEP, Rua, Numero, Cidade, Estado, CNPJ!, CodChefe!)
+	CNPJ -> Clinica(CNPJ)
+
+
+### Link para o projeto físico no Live Sql Oracle
+
+
+https://livesql.oracle.com/ords/livesql/s/cfbfz71v3iopzu3rkwcxzhv7l
 
 
 
