@@ -309,6 +309,11 @@ Também removemos alguns atributos que se encontravam como multivalorados sem a 
 
 
 
+## 5. Projeto Físico
+
+Atualização do projeto Conceitual :
+
+![image](https://github.com/user-attachments/assets/a99feb7f-dfa2-4cf1-ad84-9f53a9e999b5)
 
 
 
@@ -342,7 +347,7 @@ Também removemos alguns atributos que se encontravam como multivalorados sem a 
 
 
 
-## 5.Conclusão
+## 6.Conclusão
 
 
 Neste guia, abordamos a criação de um modelo conceitual usando a ferramenta EERCASE, focando em auto relacionamentos para a entidade "Empregado". Esse processo é essencial para representar hierarquias ou outras relações recursivas dentro de um banco de dados.
