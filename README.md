@@ -403,6 +403,9 @@ Link para a apresentação 1 (Modelo Conceitual):
 Link para a apresentação 2 (Modelo Lógico):
 https://www.canva.com/design/DAGPzg0KpRU/m-yh3CrWSlM0SIv5IDw3eQ/edit?utm_content=DAGPzg0KpRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Link para a apresentação 3 (Modelo Físico):
+https://www.canva.com/design/DAGTsJtMBcI/0fNdCNJqS19z4o408OWWFg/edit?utm_content=DAGTsJtMBcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
